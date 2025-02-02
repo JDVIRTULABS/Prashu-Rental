@@ -225,7 +225,7 @@ export default function Home() {
           <div className="bg-[#f5f5f5] shadow-lg rounded-lg p-6">
             <div className="h-40 bg-gray-300 flex justify-center items-center rounded-lg mb-4">
               <Image
-                src="/images/JCB.JPG"
+                src="/images/JCB.jpg"
                 alt="JCB 3DX"
                 width={400}
                 height={250}
