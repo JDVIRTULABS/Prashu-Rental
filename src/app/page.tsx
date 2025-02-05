@@ -119,7 +119,11 @@ export default function Home() {
         <div className="mt-8 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 px-4">
           <div className="bg-[#f5f5f5] shadow-lg rounded-lg p-6">
             <Image
+<<<<<<< HEAD
               src="/images/Excavator.jpg"
+=======
+              src="/images/JCB.jpg"
+>>>>>>> fbcdbaa7a06b8eb1e83f5a4fc1db65aad6abf595
               alt="JCB"
               width={400}
               height={250}
@@ -131,7 +135,11 @@ export default function Home() {
           </div>
           <div className="bg-[#f5f5f5] shadow-lg rounded-lg p-6">
             <Image
+<<<<<<< HEAD
               src="/images/JCB.jpg"
+=======
+              src="/images/Excavator.jpg
+>>>>>>> fbcdbaa7a06b8eb1e83f5a4fc1db65aad6abf595
               alt="Excavator"
               width={400}
               height={250}
